@@ -1,0 +1,4726 @@
+MANILA,Philippines, NE-LOC
+—, W
+Inflation, W
+further, W
+slowed, W
+to, W
+1.4 %, MWE
+in, W
+April, W
+,, W
+driven, W
+primarily, W
+by, W
+softer, W
+increases, W
+in, W
+food, W
+and, W
+transport, W
+costs, W
+,, W
+the, W
+Philippine Statistics Authority (PSA), NE-ORG
+reported, W
+on, W
+Tuesday,May 6, MWE
+., W
+
+The, W
+April, W
+figure, W
+marks, W
+a, W
+slight, W
+decline, W
+from, W
+March’s, MWE
+1.8 %, MWE
+,, W
+and, W
+is, W
+the, W
+lowest, W
+since, W
+November 2019, MWE
+,, W
+when, W
+inflation, W
+stood, W
+at, W
+1.2 %, MWE
+., W
+This, W
+brought, W
+the, W
+year-to-date, MWE
+average, W
+inflation, W
+rate, W
+from, W
+January to April 2025, MWE
+to, W
+2 %, MWE
+., W
+
+The, W
+PSA, NE-ORG
+attributed, W
+the, W
+continued, W
+downtrend, W
+to, W
+slower, W
+price, W
+increases, W
+in, W
+food, W
+,, W
+non-alcoholic, MWE
+beverages, W
+and, W
+transportation, W
+., W
+
+Food, W
+and, W
+non-alcoholic, MWE
+beverages, W
+posted, W
+a, W
+year-on-year, MWE
+inflation, W
+rate, W
+of, W
+just, W
+0.9 %, MWE
+,, W
+caused, W
+by, W
+cheaper, W
+cereal, W
+products, W
+such, W
+as, W
+rice, W
+and, W
+corn, W
+., W
+From, W
+2.3 %, MWE
+in, W
+March, W
+,, W
+rice, W
+inflation, W
+slowed, W
+to, W
+0.7 %, MWE
+in, W
+April, W
+., W
+
+Other, W
+food, W
+groups, W
+that, W
+saw, W
+slower, W
+inflation, W
+included, W
+meat, W
+,, W
+fruits, W
+and, W
+nuts, W
+,, W
+and, W
+ready-made, MWE
+food, W
+., W
+However, W
+,, W
+prices, W
+of, W
+dairy, W
+products, W
+and, W
+oils, W
+and, W
+fats, W
+rose, NE-PER
+slightly, W
+., W
+
+Transport, W
+inflation, W
+declined, W
+by, W
+2.1 %, MWE
+year-on-year, MWE
+,, W
+largely, W
+due, W
+to, W
+falling, W
+costs, W
+in, W
+operating, W
+transport, W
+equipment, W
+., W
+
+Other, W
+commodity, W
+groups, W
+that, W
+contributed, W
+to, W
+the, W
+slower, W
+inflation, W
+rate, W
+include, W
+clothing, W
+and, W
+footwear, W
+,, W
+information, W
+and, W
+communication-related products, MWE
+,, W
+recreation, W
+and, W
+culture, W
+,, W
+and, W
+miscellaneous, W
+goods, W
+., W
+
+However, W
+,, W
+some, W
+groups, W
+posted, W
+faster, W
+inflation, W
+in, W
+April, W
+., W
+Housing, W
+and, W
+utilities, W
+rose, NE-PER
+to, W
+2.9 %, MWE
+from, W
+1.7 %, MWE
+in, W
+March, W
+,, W
+while, W
+health, W
+climbed, W
+slightly, W
+to, W
+2.4 %, MWE
+from, W
+2.2 %, MWE
+., W
+Alcoholic, W
+beverages, W
+and, W
+tobacco, W
+also, W
+saw, W
+a, W
+minimal, W
+uptick, W
+., W
+
+Housing, W
+and, W
+utilities, W
+were, W
+the, W
+biggest, W
+contributors, W
+to, W
+the, W
+1.4 %, MWE
+inflation, W
+,, W
+accounting, W
+for, W
+over, W
+a, W
+third, W
+of, W
+the, W
+inflation, W
+basket, W
+., W
+Food, W
+and, W
+non-alcoholic, MWE
+beverages, W
+(24.6 %), MWE
+and, W
+restaurants, W
+and, W
+accommodation, W
+services, W
+(15.2 %), MWE
+followed, W
+., W
+
+Metro Manila, NE-LOC
+inflation, W
+picks, W
+up, W
+
+Inflation, W
+in, W
+Metro Manila rose, NE-LOC
+to, W
+2.4 %, MWE
+in, W
+April, W
+,, W
+up, W
+from, W
+2.1 %, MWE
+in, W
+March, W
+,, W
+snapping, W
+a, W
+three-month, MWE
+downtrend, W
+., W
+Still, W
+,, W
+this, W
+was, W
+lower, W
+than, W
+the, W
+2.8 %, MWE
+recorded, W
+in, W
+April 2024, MWE
+., W
+
+The, W
+uptick, W
+in, W
+the, W
+National Capital Region, NE-LOC
+was, W
+mainly, W
+due, W
+to, W
+higher, W
+prices, W
+in, W
+housing, W
+,, W
+water, W
+,, W
+electricity, W
+,, W
+gas, W
+,, W
+and, W
+other, W
+fuels, W
+,, W
+which, W
+surged, W
+to, W
+5.1 %, MWE
+in, W
+April, W
+from, W
+2.2 %, MWE
+in, W
+March, W
+., W
+
+This, W
+was, W
+partially, W
+tempered, W
+by, W
+slower, W
+inflation, W
+in, W
+food, W
+and, W
+non-alcoholic, MWE
+beverages, W
+,, W
+which, W
+eased, W
+to, W
+2.5 %, MWE
+from, W
+3.6 %, MWE
+., W
+
+Areas, W
+outside, W
+Metro Manila, NE-LOC
+posted, W
+a, W
+slower, W
+inflation, W
+rate, W
+of, W
+1.2 %, MWE
+in, W
+April, W
+,, W
+down, W
+from, W
+1.8 %, MWE
+in, W
+March, W
+., W
+
+According, W
+to, W
+the, W
+PSA, NE-ORG
+,, W
+the, W
+deceleration, W
+was, W
+largely, W
+due, W
+to, W
+the, W
+more, W
+moderate, W
+rise, W
+in, W
+prices, W
+of, W
+food, W
+and, W
+non-alcoholic, MWE
+beverages, W
+,, W
+which, W
+carry, W
+significant, W
+weight, W
+in, W
+the, W
+consumer, W
+basket, W
+., W
+In, W
+April 2024, MWE
+,, W
+inflation, W
+in, W
+these, W
+areas, W
+stood, W
+at, W
+4.1 %, MWE
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Former presidential aide and incumbent Sen.Bong Go, NE-PER
+continues, W
+to, W
+dominate, W
+the, W
+senatorial, W
+race, W
+,, W
+leading, W
+the, W
+latest, W
+nationwide, W
+survey, W
+by, W
+Arkipelago Analytics, NE-ORG
+released, W
+Tuesday,May 6, MWE
+., W
+
+The, W
+poll, W
+,, W
+conducted, W
+from, W
+April 26, MWE
+to, W
+May 1, MWE
+,, W
+showed, W
+Go, NE-PER
+garnering, W
+63 %, MWE
+voter, W
+preference, W
+,, W
+placing, W
+him, W
+ahead, W
+of, W
+broadcaster, W
+Erwin Tulfo, NE-PER
+with, W
+55 %, MWE
+and, W
+former Philippine National Police chief Sen.Ronald " Bato " dela Rosa, NE-PER
+with, W
+47 %, MWE
+., W
+
+Tied, W
+in, W
+fourth, W
+place, W
+are, W
+media, W
+personalities, W
+Ben Tulfo, NE-PER
+and, W
+former Senate President Tito Sotto, NE-PER
+,, W
+both, W
+receiving, W
+42 %, MWE
+support, W
+., W
+Sen.Pia Cayetano, NE-PER
+ranks, W
+sixth, W
+with, W
+41 %, MWE
+,, W
+followed, W
+closely, W
+by, W
+Las Piñas Rep.Camille Villar, NE-PER
+at, W
+seventh, W
+with, W
+40.5 %, MWE
+., W
+
+Villar, NE-PER
+,, W
+a, W
+second-term, MWE
+lawmaker, W
+,, W
+is, W
+among, W
+the, W
+top-performing, MWE
+first-time, MWE
+senatorial, W
+hopefuls, W
+in, W
+the, W
+survey, W
+., W
+
+Completing, W
+the, W
+top, W
+10, W
+are, W
+Sen.Ramon “ Bong ” Revilla Jr., NE-PER
+(39 %), MWE
+,, W
+Sen.Lito Lapid, NE-PER
+(38.7 %), MWE
+and, W
+television, W
+host, W
+Willie Revillame, NE-PER
+(38 %), MWE
+., W
+
+Rodante Marcoleta, NE-PER
+placed, W
+11th, W
+with, W
+34 %, MWE
+,, W
+followed, W
+by, W
+former Sen.Bam Aquino, NE-PER
+(33.5 %), MWE
+and, W
+Sen.Imee Marcos, NE-PER
+(33 %), MWE
+., W
+Former Makati Mayor Abby Binay, NE-PER
+and, W
+former Sen.Ping Lacson, NE-PER
+are, W
+tied, W
+at, W
+14th, W
+to, W
+17th, W
+place, W
+with, W
+32 %, MWE
+each, W
+., W
+
+A, W
+total, W
+of, W
+1,400, MWE
+registered, W
+voters, W
+participated, W
+in, W
+the, W
+face-to-face, MWE
+survey, W
+,, W
+which, W
+used, W
+proportional, W
+stratified, W
+random, W
+sampling, W
+to, W
+ensure, W
+demographic, W
+representation, W
+., W
+The, W
+poll, W
+has, W
+a, W
+± 3 %, MWE
+margin, W
+of, W
+error, W
+and, W
+a, W
+97 %, MWE
+confidence, W
+level, W
+., W
+
+Unlike, W
+traditional, W
+rankings, W
+based, W
+purely, W
+on, W
+popularity, W
+,, W
+Arkipelago Analytics, NE-ORG
+applied, W
+a, W
+hybrid, W
+weighting, W
+method, W
+,, W
+combining, W
+popularity, W
+(70 %), MWE
+and, W
+voter, W
+conversion, W
+efficiency, W
+(30 %), MWE
+., W
+The, W
+firm, W
+said, W
+this, W
+methodology, W
+provides, W
+deeper, W
+insights, W
+into, W
+candidates’ability, MWE
+to, W
+convert, W
+awareness, W
+into, W
+actual, W
+votes, W
+., W
+
+Arkipelago Analytics, NE-ORG
+is, W
+an, W
+independent, W
+research, W
+organization, W
+specializing, W
+in, W
+public, W
+opinion, W
+polling, W
+,, W
+election, W
+forecasting, W
+and, W
+policy, W
+analysis, W
+
+MANILA,Philippines, NE-LOC
+—, W
+The, W
+Department of Information and Communications Technology (DICT), NE-ORG
+has, W
+set, W
+up, W
+a, W
+“, W
+war, W
+room, W
+”, W
+with, W
+the, W
+Commission on Elections (Comelec), NE-ORG
+to, W
+monitor, W
+and, W
+stamp, W
+out, W
+online, W
+misinformation, W
+and, W
+disinformation, W
+in, W
+the, W
+run-up, MWE
+to, W
+the, W
+May 12, MWE
+midterm, W
+polls, W
+., W
+
+The, W
+DICT, NE-ORG
+said, W
+the, W
+first-of-its-kind, MWE
+24/7, MWE
+Threat Monitoring Center, NE-LOC
+will, W
+serve, W
+as, W
+a, W
+real-time, MWE
+digital, W
+command, W
+post, W
+for, W
+detecting, W
+,, W
+disrupting, W
+and, W
+dismantling, W
+online, W
+misinformation, W
+and, W
+disinformation, W
+,, W
+to, W
+protect, W
+the, W
+sanctity, W
+of, W
+the, W
+ballot, W
+in, W
+the, W
+digital, W
+age, W
+., W
+
+The, W
+DICT, NE-ORG
+will, W
+operate, W
+the, W
+anti-fake news, MWE
+command, W
+post, W
+through, W
+the, W
+Cybercrime Investigation and Coordinating Center, NE-ORG
+., W
+
+The, W
+CICC, NE-ORG
+made, W
+the, W
+Threat Monitoring Center, NE-LOC
+operational, W
+in, W
+two, W
+days, W
+under, W
+its, W
+officer-in-charge, MWE
+,, W
+DICT Assistant Secretary Renato Paraiso, NE-PER
+., W
+
+“, W
+This, W
+center, W
+is, W
+our, W
+commitment, W
+to, W
+the, W
+Filipino people, NE-PER
+–, W
+a, W
+promise, W
+that, W
+in, W
+a, W
+time, W
+of, W
+digital, W
+deception, W
+,, W
+the, W
+government, W
+will, W
+stand, W
+as, W
+a, W
+guardian, W
+of, W
+truth, W
+and, W
+transparency, W
+,, W
+”, W
+DICT Secretary Henry Rhoel Aguda, NE-PER
+said, W
+., W
+
+Comelec Chairman George Garcia, NE-PER
+said, W
+the, W
+center, W
+would, W
+help, W
+stem, W
+the, W
+spread, W
+of, W
+misinformation, W
+and, W
+disinformation, W
+in, W
+cyberspace, W
+ahead, W
+of, W
+the, W
+midterm, W
+polls, W
+., W
+
+“, W
+Misinformation, W
+is, W
+really, W
+massive, W
+–, W
+from, W
+the, W
+internet, W
+and, W
+social media, MWE
+., W
+Everyone, W
+is, W
+witness, W
+to, W
+it, W
+,, W
+”, W
+he, W
+said, W
+., W
+
+Lately, W
+,, W
+cyberspace, W
+has, W
+been, W
+barraged, W
+with, W
+fake, W
+claims, W
+like, W
+“, W
+No, W
+National, W
+ID, W
+,, W
+No, W
+Vote, W
+”, W
+as, W
+well, W
+as, W
+with, W
+AI-generated, MWE
+deepfake, W
+videos, W
+., W
+
+Using, W
+cutting-edge, MWE
+forensics, W
+,, W
+rapid-response, MWE
+coordination, W
+and, W
+real-time, MWE
+surveillance, W
+,, W
+representatives, NE-PER
+from, W
+government, W
+agencies, W
+,, W
+law, W
+enforcement, W
+units, W
+,, W
+fact-checkers, MWE
+,, W
+tech, W
+platforms, W
+and, W
+civil, W
+society, W
+organizations, W
+will, W
+work, W
+side-by-side, MWE
+in, W
+the, W
+digital, W
+war, W
+room, W
+., W
+
+“, W
+The, W
+stakes, W
+are, W
+high, W
+,, W
+and, W
+the, W
+message, W
+is, W
+clear, W
+,, W
+”, W
+Paraiso, NE-PER
+said, W
+., W
+“, W
+When, W
+disinformation, W
+wins, W
+,, W
+democracy, W
+loses, W
+., W
+That’s, MWE
+why, W
+we, W
+cannot, W
+–, W
+and, W
+will not, MWE
+–, W
+let, W
+falsehoods, W
+go, W
+unchecked, W
+., W
+”, W
+
+MANILA,Philippines, NE-LOC
+—, W
+Pinayuhan, W
+ng, W
+Malakanyang, NE-ORG
+si, W
+Vice President Sara Duterte, NE-PER
+na, W
+huwag, W
+maging, W
+asal, W
+bata, W
+dahil, W
+hindi, W
+isang, W
+malaking, W
+playground, W
+ang, W
+gobyerno, NE-ORG
+., W
+
+Sinabi, W
+ni, W
+Palace Press Office Undersecretary Atty.Claire Castro, NE-PER
+,, W
+lumalabas, W
+ang, W
+tunay, W
+na, W
+anyo, W
+ng, W
+Bise Presidente, NE-PER
+bilang, W
+isang, W
+public, W
+servant, W
+matapos, W
+niyang, W
+sabihin, W
+na, W
+imposibleng, W
+makapagbenta, W
+ng, W
+P20, W
+kada, W
+kilo, W
+ng, W
+bigas, W
+subalit, W
+alam, W
+niya, W
+kung paano, MWE
+ito, W
+gawin, W
+at, W
+hindi, W
+niya, W
+ito, W
+ise-share, MWE
+o, W
+ibabahagi, W
+kay, W
+Pangulong Ferdinand Marcos Jr., NE-PER
+
+Ayon, W
+kay, W
+Castro, NE-PER
+,, W
+nagpapakita, W
+lamang, W
+na, W
+makasarili, W
+si, W
+VP Sara, NE-PER
+dahil, W
+ayaw, W
+niyang, W
+tumulong, W
+sa, W
+Pangulo, NE-PER
+kung, W
+talagang, W
+mayroon, W
+siyang, W
+kaalaman, W
+., W
+
+Dagdag, W
+pa, W
+niya, W
+,, W
+kung, W
+may, W
+kaalaman, W
+para, W
+sa, W
+taumbayan, W
+ay, W
+dapat, W
+agad, W
+itong, W
+ibinabahagi, W
+at, W
+isinasagawa, W
+at, W
+hindi na, MWE
+kailangan, W
+pa, W
+na, W
+kumuha, W
+ng, W
+timing, W
+., W
+
+“, W
+Hindi na, MWE
+naiisip, W
+ng, W
+Bise Presidente, NE-PER
+ang, W
+kapakanan, W
+ng, W
+taumbayan, W
+lalo na, MWE
+ang, W
+iba, W
+ay, W
+nahihirapan, W
+na, W
+bumili, W
+ng, W
+bigas, W
+sa, W
+kahit na, MWE
+mababang, W
+presyo, W
+”, W
+., W
+
+Paalala, W
+pa, W
+ni, W
+Castro, NE-PER
+kay, W
+VP Sara, NE-PER
+,, W
+ang, W
+paglilingkod, W
+sa, W
+bayan, W
+ay, W
+hindi, W
+isang, W
+laro, W
+at, W
+ang, W
+gobyerno, NE-ORG
+ay, W
+hindi, W
+malaking, W
+playground, W
+kaya, W
+huwag naman, MWE
+siyang, W
+maging, W
+asal, W
+bata, W
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Kinuwestiyon, W
+ni, W
+House Majority Leader Paolo Ortega V, NE-PER
+ang, W
+loyalty, W
+ni, W
+Vice President Sara Duterte, NE-PER
+kung, W
+sa, W
+Pilipinas, NE-LOC
+ba, W
+o, W
+China, NE-LOC
+dahil sa, MWE
+nakabibingi, W
+umanong, W
+katahimikan, W
+nito, W
+sa, W
+isyu, W
+ng, W
+West Philippine Sea, NE-LOC
+., W
+
+Ayon, W
+kay, W
+Ortega, NE-PER
+,, W
+tila, W
+malinaw, W
+ang, W
+pahiwatig, W
+sa, W
+inaasal, W
+ni, W
+VP Sara, NE-PER
+na, W
+aniya’y, MWE
+sobrang, W
+tapang, W
+sa, W
+pagbira, W
+sa, W
+kaniyang, W
+mga kritiko, MWE
+pero, W
+pagdating, W
+sa, W
+usapin, W
+ng, W
+China, NE-LOC
+ay, W
+tameme, W
+o, W
+nanahimik, W
+ito, W
+., W
+
+Tinukoy, W
+ng, W
+solon, NE-ORG
+ang, W
+pinakahuling, W
+insidente, W
+ng, W
+pagpasok, W
+ng, W
+mga tauhan, MWE
+ng, W
+China Coast Guard, NE-ORG
+sa, W
+Sandy Cay, NE-LOC
+na, W
+bahagi, W
+ng, W
+Spratly Group of Islands, NE-LOC
+kamakailan, W
+., W
+Ang, W
+Sandy Cay, NE-LOC
+ay, W
+bahagi, W
+ng, W
+inookupa, W
+ng, W
+Pilipinas, NE-LOC
+sa, W
+pinagtatalunang, W
+teritoryo, W
+., W
+
+“, W
+She’s, MWE
+been, W
+going, W
+around, W
+hitting, W
+almost, W
+everybody, W
+,, W
+but, W
+never, W
+China, NE-LOC
+!, W
+Apparently, W
+,, W
+mum, W
+is, W
+the, W
+word, W
+when, W
+it, W
+comes, W
+to, W
+Beijing, NE-LOC
+., W
+She’s, MWE
+dead, W
+silent, W
+when, W
+the, W
+issue, W
+about, W
+China, NE-LOC
+occupying, W
+our, W
+very, W
+own, W
+yard, W
+is, W
+raised, W
+., W
+Silent, W
+as, W
+the, W
+grave, W
+with, W
+zipped, W
+and, W
+sealed, W
+lips, W
+–, W
+very, W
+much, W
+unlike, W
+her, W
+,, W
+”, W
+sabi, W
+ni, W
+Ortega, NE-PER
+., W
+
+Iginiit, W
+ni, W
+Ortega, NE-PER
+na, W
+lahat, W
+ng, W
+inihalal, W
+na, W
+opisyal ng gobyerno, NE-PER
+ay, W
+dapat, W
+na, W
+nagtatanggol, W
+sa, W
+bansa, W
+., W
+
+“, W
+Again, W
+,, W
+where, W
+is, W
+patriotism, W
+here, W
+?, W
+Should, W
+we, W
+really, W
+listen, W
+or, W
+believe, W
+somebody, W
+whose, W
+interests, W
+goes, W
+exactly, W
+the, W
+opposite, W
+of, W
+75 percent, MWE
+of, W
+Filipinos, NE-PER
+,, W
+who, W
+,, W
+based, W
+on, W
+the, W
+latest, W
+Social Weather Stations (SWS), NE-ORG
+survey, W
+,, W
+are, W
+likely, W
+to, W
+vote, W
+overwhelmingly, W
+and, W
+root, W
+for, W
+Team Pilipinas, NE-ORG
+!, W
+”, W
+dagdag, W
+pa, W
+ng, W
+solon, NE-ORG
+., W
+
+Ang, W
+tinutukoy, W
+ni, W
+Ortega, NE-PER
+ay, W
+ang, W
+pinakahuling, W
+survey, W
+ng, W
+SWS, NE-ORG
+na, W
+kinomisyon, W
+ng, W
+Stratbase, NE-ORG
+na, W
+nagpapakita, W
+na, W
+75 %, MWE
+ng, W
+mga Pilipino, MWE
+ang, W
+boboto, W
+sa, W
+mga kandidato, MWE
+na, W
+iginigiit, W
+ang, W
+karapatan, W
+ng, W
+Pilipinas, NE-LOC
+sa, W
+mga inaangking teritoryo, MWE
+ng, W
+China, NE-LOC
+sa, W
+WPS, NE-LOC
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Pinaiimbestigahan, W
+ni, W
+Pangulong Ferdinand Marcos Jr., NE-PER
+ang, W
+sinasabing, W
+substandard, W
+o, W
+depektibong, W
+bollards, W
+na, W
+nakalagay, W
+sa, W
+Ninoy Aquino International Airport (NAIA) Terminal 1, NE-LOC
+., W
+
+Ang, W
+kautusan, W
+ay, W
+ginawa, W
+matapos, W
+ang, W
+insidente, W
+kung saan, MWE
+dalawa, W
+katao, W
+ang, W
+nasawi, W
+kabilang, W
+ang, W
+isang, W
+5-taong gulang, MWE
+na, W
+batang babae, MWE
+matapos, W
+masagasaan, W
+ng, W
+isang, W
+SUV, W
+., W
+
+Ayon, W
+kay, W
+Presidential Communications Office (PCO) Undersecretary Atty.Claire Castro, NE-PER
+,, W
+ikinalulungkot, W
+ng, W
+pamahalaan, NE-ORG
+ang, W
+insidente, W
+,, W
+lalo na, MWE
+kung, W
+mapatutunayang, W
+ang, W
+mga bollards, MWE
+ay, W
+hindi, W
+tumugon, W
+sa, W
+nararapat, W
+na, W
+pamantayan, W
+ng, W
+kaligtasan, W
+., W
+
+Aniya, W
+,, W
+ang, W
+mga naturang bollards, MWE
+ay, W
+na-install, MWE
+noong, W
+Hulyo 2019, MWE
+sa ilalim, MWE
+ng, W
+nakaraang, W
+administrasyon, W
+,, W
+partikular, W
+sa panahon, MWE
+ni, W
+dating Department of Transportation (DOTr) Secretary Arthur Tugade, NE-PER
+., W
+
+“, W
+Sa, W
+direktiba, W
+ng, W
+Pangulo, NE-PER
+,, W
+iniimbestigahan, W
+na, W
+ang, W
+proseso, W
+ng, W
+procurement, W
+at, W
+ang, W
+mga teknikal, MWE
+na, W
+detalye, W
+ng, W
+nasabing, W
+proyekto, W
+,, W
+”, W
+ani, W
+Castro, NE-PER
+., W
+“, W
+Kaagad, W
+ding, W
+inatasan, W
+si, W
+Secretary Vince Dizon, NE-PER
+na, W
+pangunahan, W
+ang, W
+pagsusuri, W
+sa, W
+kasalukuyang, W
+mga bollards, MWE
+at, W
+tiyakin, W
+ang, W
+kanilang, W
+agarang, W
+pagpapalit, W
+upang, W
+mapangalagaan, W
+ang, W
+kaligtasan, W
+ng, W
+publiko, W
+., W
+”, W
+
+Dagdag, W
+pa, W
+niya, W
+,, W
+hindi, W
+palalagpasin, W
+ng, W
+administrasyon, W
+ang, W
+anumang, W
+uri, W
+ng, W
+kapabayaan, W
+,, W
+lalung-lalo na, MWE
+kung, W
+ito, W
+ay, W
+may, W
+kaugnayan, W
+sa, W
+katiwalian, W
+sa, W
+mga kontrata, MWE
+ng, W
+pamahalaan, NE-ORG
+., W
+
+Sakaling, W
+mapatutunayan, W
+aniya, W
+na, W
+may, W
+pananagutan, W
+ang, W
+sinuman, W
+,, W
+agad, W
+na, W
+ipatutupad, W
+ang, W
+karampatang, W
+aksyon, W
+alinsunod, W
+sa, W
+batas, W
+., W
+
+Batay, W
+sa, W
+inisyal, W
+na, W
+ulat, W
+,, W
+sinasabing, W
+nawalan, W
+ng, W
+kontrol, W
+ang, W
+driver, W
+ng, W
+SUV, W
+at, W
+sumalpok, W
+sa, W
+mga bollards, MWE
+sa labas, MWE
+ng, W
+paliparan, W
+., W
+
+Isa, W
+sa, W
+mga tinutukoy, MWE
+na, W
+posibleng, W
+sanhi, W
+ng, W
+insidente, W
+ay, W
+ang, W
+umano’y, MWE
+mahinang, W
+kalidad, W
+ng, W
+bollards, W
+na, W
+hindi, W
+naging, W
+epektibong, W
+pangharang, W
+sa, W
+sasakyan, W
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Mahigit, W
+?, W
+sa, W
+30, W
+kandidato, W
+para, W
+sa, W
+?, W
+May 12, MWE
+National and Local Elections, MWE
+,, W
+na, W
+kinabibilangan, W
+ng, W
+isang, W
+senatorial, W
+bet, W
+,, W
+ang, W
+nakatakdang, W
+sampahan, W
+ng, W
+disqualification, W
+case, W
+ng, W
+Commission on Elections (Comelec) Task Force Baklas, NE-ORG
+dahil sa, MWE
+umano’y, MWE
+paglabag, W
+sa, W
+mga panuntunan, MWE
+ng, W
+poll, W
+body, W
+sa, W
+illegal, W
+campaign, W
+materials, W
+., W
+
+Ayon, W
+kay, W
+Comelec Chairman George Erwin Garcia, NE-PER
+,, W
+ang, W
+mga naturang kandidato, MWE
+ay, W
+hindi, W
+tumalima, W
+nang, W
+pagsabihang, W
+tanggalin, W
+ang, W
+kanilang, W
+mga unlawful campaign materials, MWE
+., W
+
+“, W
+Mga 30 to 35 katao, MWE
+ang, W
+kakasuhan, W
+ng, W
+Task Force Baklas, NE-ORG
+officially, W
+ng, W
+kaso, W
+dahil sa, MWE
+hindi, W
+pagtatanggal, W
+ng, W
+mga campaign materials, MWE
+na, W
+ni-require, MWE
+ng, W
+task force, NE-ORG
+na, W
+tanggalin, W
+and, W
+despite, W
+several, W
+notices, W
+at, W
+pakiusap, W
+,, W
+”, W
+paliwanag, W
+ni, W
+Garcia, NE-PER
+., W
+
+“, W
+May, W
+isang, W
+senatorial, W
+candidate, W
+,, W
+”, W
+aniya, W
+pa, W
+., W
+
+Kinumpirma, W
+rin, W
+ni, W
+Garcia, NE-PER
+na, W
+tatlong, W
+kandidato, W
+pa, W
+ang, W
+sasampahan, W
+ng, W
+disqualification, W
+petition, W
+ng, W
+Task Force SAFE (Safeguarding Against Fear and Exclusion in Election), NE-ORG
+ng, W
+Comelec, NE-ORG
+dahil sa, MWE
+paglabag, W
+sa, W
+anti-discrimination, MWE
+resolution, W
+., W
+
+“, W
+May, W
+tatlong, W
+kakasuhan, W
+ang, W
+Comelec, NE-ORG
+sa, W
+anti-discrimination, MWE
+resolution, W
+bagamat, W
+madami, W
+nang, W
+nakasuhan, W
+ang, W
+Comelec, NE-ORG
+ay, W
+may, W
+napili, W
+na, W
+maaaring, W
+guilty, W
+sa, W
+pambabastos, W
+o, W
+pandi-discriminate, MWE
+ng, W
+ibang, W
+tao, W
+,, W
+”, W
+ani, W
+Garcia, NE-PER
+,, W
+sa, W
+panayam, W
+sa radyo, MWE
+., W
+
+Mayroon, W
+na, W
+aniya, W
+silang, W
+400, W
+kaso, W
+ng, W
+vote buying, MWE
+at, W
+may, W
+inilabas, W
+na, W
+rin, W
+silang, W
+disqualification, W
+cases, W
+ngunit, W
+hindi pa, MWE
+rin, W
+tumitigil, W
+ang, W
+mga kandidato, MWE
+sa, W
+paglabag, W
+., W
+
+Nagbabala, W
+naman, W
+si, W
+Garcia, NE-PER
+na, W
+ihu-hold, MWE
+nila, W
+ang, W
+proklamasyon, W
+ng, W
+mga indibidwal, MWE
+na, W
+may, W
+nakabinbing, W
+kaso, W
+sakaling, W
+magwagi, W
+sila, W
+sa, W
+halalan, W
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+", W
+All, W
+systems, W
+go, NE-PER
+", W
+na, W
+ang, W
+Commission on Elections (Comelec), NE-ORG
+para, W
+sa, W
+pagdaraos, W
+ng, W
+May 12,2025 National and Local Elections (NLE), MWE
+sa, W
+Lunes, W
+., W
+
+Ayon, W
+kay, W
+Comelec Chairman George Garcia, NE-PER
+,, W
+ilang, W
+araw, W
+bago, W
+ang, W
+halalan, W
+ay, W
+nasa, W
+halos, W
+100 %, MWE
+na, W
+ang, W
+delivery, W
+ng, W
+automated, W
+counting, W
+machines, W
+(ACMs), MWE
+., W
+
+Nagsimula, W
+na, W
+rin, W
+kahapon, W
+ang, W
+delivery, W
+ng, W
+huling, W
+batch, W
+ng, W
+mga official ballots, MWE
+para, W
+sa, W
+National Capital Region (NCR), NE-LOC
+,, W
+na, W
+aabot, W
+sa, W
+7.5 milyon, MWE
+., W
+
+Ani, W
+Garcia, NE-PER
+,, W
+una, NE-ORG
+na, W
+nilang, W
+naipamahagi, W
+sa, W
+mga treasurer’s office, MWE
+ng, W
+mga munisipyo, MWE
+at, W
+siyudad, W
+ang, W
+mga balota, MWE
+para, W
+sa, W
+iba, W
+pang, W
+rehiyon, W
+sa, W
+bansa, W
+nitong, W
+mga nakalipas, MWE
+na, W
+araw, W
+., W
+
+Nitong, W
+Martes, W
+,, W
+kabilang, W
+sa, W
+mga unang dinalhan, MWE
+ng, W
+mga balota, MWE
+ay, W
+ang, W
+Caloocan, NE-LOC
+,, W
+Marikina, NE-LOC
+,, W
+Pasig, NE-LOC
+,, W
+Valenzuela, NE-LOC
+,, W
+Quezon City, NE-LOC
+,, W
+Malabon, NE-LOC
+,, W
+Navotas, NE-LOC
+,, W
+at, W
+San Juan City, NE-LOC
+., W
+
+Ang, W
+shipping, W
+naman, W
+ng, W
+mga balota, MWE
+para, W
+sa, W
+Muntinlupa, NE-LOC
+,, W
+Pateros, NE-LOC
+,, W
+Taguig, NE-LOC
+,, W
+Manila, NE-LOC
+,, W
+Makati, NE-LOC
+,, W
+Pasay, NE-LOC
+,, W
+Las Piñas, NE-LOC
+,, W
+Mandaluyong, NE-LOC
+,, W
+at, W
+Parañaque, NE-LOC
+ay, W
+sisimulan, W
+ngayong, W
+Miyerkules,Mayo 7, MWE
+., W
+
+Ihahatid, W
+aniya, W
+ang, W
+mga official ballots, MWE
+sa, W
+treasurer’s office, MWE
+ng, W
+bawat, W
+lungsod, W
+., W
+
+Ang, W
+pamamahagi, W
+naman, W
+ng, W
+balota, W
+sa, W
+mga voting precincts, MWE
+ay, W
+isasagawa, W
+sa ilalim, MWE
+ng, W
+pangangasiwa, W
+ng, W
+electoral board members, NE-PER
+at, W
+sisimulan, W
+sa, W
+Linggo,Mayo 11, MWE
+,, W
+hanggang, W
+sa, W
+umaga, W
+ng, W
+araw, W
+ng, W
+halalan, W
+sa, W
+Lunes, W
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Idineklara, W
+ng, W
+Malacañang, NE-ORG
+na, W
+special (non-working) holiday, MWE
+ang, W
+Lunes,Mayo 12,2025, MWE
+,, W
+upang, W
+bigyang-daan, MWE
+ang, W
+pagdaraos, W
+ng, W
+Local at national elections, MWE
+sa buong bansa, MWE
+., W
+
+Batay, W
+sa, W
+Proclamation, W
+No, W
+., W
+878, W
+,, W
+na, W
+nilagdaan, W
+ni, W
+Executive Secretary Lucas Bersamin, NE-PER
+,, W
+sinabi, W
+nito, W
+na, W
+kinikilala, W
+ng, W
+pamahalaan, NE-ORG
+ang, W
+kahalagahan, W
+ng, W
+pagboto, W
+bilang, W
+pangunahing, W
+karapatan, W
+ng, W
+bawat, W
+Pilipino, NE-PER
+., W
+
+Sa, W
+bisa, W
+ng, W
+nasabing, W
+proklamasyon, W
+,, W
+layunin, W
+ng, W
+gobyerno, NE-ORG
+na, W
+bigyan, W
+ng, W
+sapat, W
+na, W
+panahon, W
+at, W
+pagkakataon, W
+ang, W
+mga mamamayan, MWE
+upang, W
+makaboto, W
+nang, W
+maayos, W
+at, W
+walang, W
+hadlang, W
+., W
+
+Inanyayahan, W
+din, W
+ang, W
+publiko, W
+na, W
+samantalahin, W
+ang, W
+espesyal, W
+na, W
+araw, W
+na, W
+ito, W
+upang, W
+gampanan, W
+ang, W
+kanilang, W
+tungkulin, W
+bilang, W
+mga responsableng mamamayan, MWE
+sa pamamagitan ng, MWE
+paglahok, W
+sa, W
+halalan, W
+., W
+
+Nauna, W
+na, W
+rin, W
+nanawagan, W
+si, W
+Commission on Elections (Comelec) chairman George Erwin Garcia, NE-PER
+sa, W
+Malakanyang, NE-ORG
+na, W
+gawing, W
+holiday, W
+ang, W
+araw, W
+ng, W
+eleksyon, W
+para, W
+mahikayat, W
+ang, W
+madaming, W
+Pilipino, NE-PER
+na, W
+bumoto, W
+
+MALOLOS CITY,BULACAN,Philippines, NE-LOC
+—, W
+Nakuha, W
+ni, W
+Senatoriable Manny Pacquiao, NE-PER
+ang, W
+karagdagang, W
+lakas, W
+sa, W
+kanyang, W
+pagbabalik, W
+sa, W
+Senado, NE-ORG
+ngayong, W
+2025, W
+matapos, W
+ipahayag, W
+nina, W
+Gobernador Daniel Fernando, NE-PER
+at, W
+Bise Gobernador Alex Castro, NE-PER
+ang, W
+kanilang, W
+pormal, W
+na, W
+suporta, W
+sa, W
+isang, W
+pagpupulong, W
+sa, W
+Malolos, NE-LOC
+., W
+Nangako, W
+ang, W
+political, W
+bloc, W
+ni, W
+Fernando, NE-PER
+na, W
+hihikayatin, W
+ang, W
+mga lokal na lider, MWE
+at, W
+mga Bulakenyo, MWE
+na, W
+suportahan, W
+si, W
+Pacquiao, NE-PER
+,, W
+dahil sa, MWE
+kanyang, W
+makamasang, W
+mga polisiya, MWE
+at, W
+bisyon, W
+para, W
+sa, W
+kaunlaran, W
+ng, W
+lalawigan, W
+., W
+
+Tinalakay, W
+nina, W
+Pacquiao, NE-PER
+at, W
+Vice Gov.Alex Castro, NE-PER
+ang, W
+mga pangunahing suliranin, MWE
+sa, W
+lalawigan, W
+tulad, W
+ng, W
+pagbaha, W
+,, W
+isyu, W
+ng, W
+serbisyo, W
+ng, W
+tubig, W
+,, W
+at, W
+ang, W
+pangangailangan, W
+para, W
+sa, W
+mas, W
+matibay, W
+na, W
+paghahanda, W
+sa, W
+sakuna, W
+at, W
+imprastraktura, W
+., W
+
+“, W
+Ako, W
+po, W
+ay, W
+taos-pusong, MWE
+nagpapasalamat, W
+sa, W
+tiwala, W
+nina, W
+Gov.Fernando, NE-PER
+at, W
+Vice Gov.Castro, NE-PER
+., W
+Malaki, W
+po, W
+ang, W
+potensyal, W
+ng, W
+Bulacan, NE-LOC
+., W
+Kailangan, W
+lang, W
+po, W
+natin, W
+ng, W
+sapat, W
+na, W
+suporta, W
+mula sa, MWE
+gobyerno, NE-ORG
+para, W
+tuluyang, W
+umangat, W
+ang, W
+buhay, W
+ng, W
+bawat, W
+Bulakenyo, NE-PER
+,, W
+”, W
+ani, W
+Pacquiao, NE-PER
+., W
+
+Mariing, W
+iginiit, W
+ni, W
+Pacquiao, NE-PER
+ang, W
+kanyang, W
+posisyon, W
+laban, W
+sa, W
+matagal, W
+nang, W
+isyu, W
+ng, W
+pribatisasyon, W
+ng, W
+mga pangunahing serbisyo, MWE
+tulad, W
+ng, W
+tubig, W
+., W
+
+“, W
+Matagal, W
+ko, W
+nang, W
+tinutulan, W
+ang, W
+privatization, W
+ng, W
+mga pangunahing serbisyo, MWE
+tulad, W
+ng, W
+tubig, W
+., W
+Bakit, W
+natin, W
+ipapasa, W
+sa, W
+pribadong, W
+sektor, W
+ang, W
+isang, W
+bagay, W
+na, W
+dapat, W
+ay, W
+direktang, W
+ibinibigay, W
+ng, W
+gobyerno, NE-ORG
+para, W
+sa, W
+tao, W
+?, W
+Dapat, W
+tiyakin, W
+ng, W
+gobyerno, NE-ORG
+ang, W
+pagbibigay, W
+ng, W
+maayos, W
+at, W
+abot-kayang, MWE
+tubig, W
+sa, W
+bawat, W
+Pilipino, NE-PER
+,, W
+”, W
+pahayag, W
+ni, W
+Pacquiao, NE-PER
+., W
+
+Dagdag, W
+pa, W
+niya, W
+,, W
+kailangan, W
+na, W
+ang, W
+matagal, W
+nang, W
+inaasam, W
+na, W
+reporma, W
+., W
+
+“, W
+Noon, W
+ko, W
+pa, W
+isinusulong, W
+ang, W
+pagtatatag, W
+ng, W
+Department of Water Resources, NE-ORG
+na, W
+siyang, W
+mangangasiwa, W
+sa, W
+lahat, W
+ng, W
+ahensya, NE-ORG
+na, W
+may kinalaman, MWE
+sa, W
+patubig, W
+., W
+Sa, W
+ganitong, W
+paraan, W
+,, W
+magkakaroon, W
+tayo, W
+ng, W
+malinaw, W
+na, W
+pamantayan, W
+at, W
+mas, W
+mahigpit, W
+na, W
+regulasyon, W
+para, W
+mapanagot, W
+ang, W
+mga kumpanyang lumalabag, MWE
+sa, W
+kasunduan, W
+sa, W
+gobyerno, NE-ORG
+., W
+”, W
+
+Binigyang-diin, MWE
+ni, W
+Pacquiao, NE-PER
+ang, W
+pangangailangang, W
+mamuhunan, W
+sa, W
+modernisasyon, W
+ng, W
+mga imprastrakturang kontra sa pagbaha, MWE
+., W
+
+Nangako, W
+rin, W
+siyang, W
+susuportahan, W
+ang, W
+pagtatayo, W
+ng, W
+mga elevated coastal highways, MWE
+na, W
+mag-uugnay, MWE
+sa, W
+Central Luzon, NE-LOC
+at, W
+Metro Manila, NE-LOC
+,, W
+na, W
+makakatulong, W
+para, W
+mapaluwag, W
+ang, W
+trapiko, W
+at, W
+pagpapalago, W
+ng, W
+Regional, W
+Economy, W
+., W
+
+Inilahad, W
+din, W
+ni, W
+Pacquiao, NE-PER
+ang, W
+kanyang, W
+pananaw, W
+sa, W
+pagdadala, W
+ng, W
+pag-unlad, MWE
+sa, W
+mga probinsiya, MWE
+., W
+
+“, W
+Reverse, W
+migration, W
+—, W
+huwag, W
+tayong, W
+mag-focus, MWE
+lang, W
+sa, W
+Metro Manila, NE-LOC
+., W
+Kailangan, W
+nating, W
+paluwagin, W
+ang, W
+Metro Manila, NE-LOC
+para, W
+mas, W
+mapa-unlad, MWE
+ito, W
+., W
+Dalhin, W
+natin, W
+ang, W
+pag-unlad, MWE
+sa, W
+kanayunan, W
+., W
+Magpatayo, W
+tayo, W
+ng, W
+mga tahanan, MWE
+para, W
+sa, W
+mga hindi kayang bumili, MWE
+,, W
+bigyan, W
+ng, W
+kabuhayan, W
+,, W
+at, W
+turuan, W
+kung paano, MWE
+magpatakbo, W
+ng, W
+negosyo, W
+,, W
+”, W
+ani, W
+Pacquiao, NE-PER
+., W
+
+Pinuri, W
+din, W
+niya, W
+ang, W
+kontribusyon, W
+ng, W
+mga MSMEs, MWE
+sa, W
+Bulacan, NE-LOC
+at, W
+nanawagan, W
+para, W
+sa, W
+mas, W
+malakas, W
+na, W
+suporta, W
+mula sa, MWE
+gobyerno, NE-ORG
+., W
+
+Ang, W
+Bulacan, NE-LOC
+ang, W
+may, W
+pinakamalaking, W
+ekonomiya, W
+sa, W
+Gitnang Luzon, NE-LOC
+,, W
+na, W
+may, W
+kontribusyong, W
+27.2 %, MWE
+sa, W
+Gross, W
+Regional, W
+Domestic, W
+Product, W
+(GRDP), MWE
+ng, W
+rehiyon, W
+na, W
+tinatayang, W
+nasa, W
+631.64 bilyon, MWE
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Pinasasagot, W
+ng, W
+Office of the Ombudsman, NE-ORG
+ang, W
+limang, W
+government officials, NE-PER
+sa, W
+reklamo, W
+ng, W
+panel on foreign relations, NE-PER
+sa, W
+pangunguna, W
+ni, W
+Sen.Imee Marcos, NE-PER
+ukol, W
+sa, W
+legalidad, W
+ng, W
+pag-aresto, MWE
+kay, W
+dating Pangulong Rodrigo Duterte, NE-PER
+sa, W
+International Criminal Court, NE-ORG
+., W
+
+Sa, W
+kautusang, W
+ipinalabas, W
+ng, W
+Ombudsman, NE-ORG
+,, W
+inaatasan, W
+sina, W
+Justice Secretary Jesus Crispin Remulla, NE-PER
+;, W
+Interior Secretary Jonvic Remulla, NE-PER
+;, W
+PNP chief Gen.Rommel Francisco Marbil, NE-PER
+;, W
+PNP-CIDG chief PMGen.Nicolas Torre III, NE-PER
+at, W
+Special Envoy for Transnational Crimes Markus Lacanilao, NE-PER
+na, W
+maghain, W
+ng, W
+counter-affidavit, MWE
+para, W
+sa, W
+administrative, W
+at, W
+criminal, W
+cases, W
+., W
+
+Matatandaang, W
+pormal, W
+na, W
+isinumite, W
+ni, W
+Marcos, NE-PER
+sa, W
+Ombudsman, NE-ORG
+ang, W
+ulat, W
+ng, W
+Senado, NE-ORG
+kaugnay, W
+sa, W
+pag-aresto, MWE
+kay, W
+dating Pangulong Duterte, NE-PER
+para, W
+dalhin, W
+sa, W
+The Hague,Netherlands, NE-LOC
+., W
+
+Ayon, W
+sa, W
+liham, W
+na, W
+kalakip, W
+ng, W
+ulat, W
+,, W
+ibinunyag, W
+ng, W
+imbestigasyon, W
+ang, W
+posibleng, W
+mga krimen, MWE
+at, W
+administratibong, W
+paglabag, W
+ng, W
+ilang, W
+matataas, W
+na, W
+opisyal ng gobyerno, NE-PER
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Kinontra, W
+ng, W
+Malakanyang, NE-ORG
+ang, W
+pahayag, W
+ni, W
+Vice President Sara Duterte, NE-PER
+na, W
+maaaring, W
+ma-impeach, MWE
+si, W
+Pangulong Ferdinand Marcos Jr., NE-PER
+dahil sa, MWE
+pagpapaaresto, W
+nito, W
+kay, W
+dating pangulong Rodrigo Duterte, NE-PER
+., W
+
+Ayon, W
+kay, W
+Palace Press Office Undersecretary Atty.Claire Castro, NE-PER
+,, W
+walang, W
+basehan, W
+ang, W
+pahayag, W
+ni, W
+VP Sara, NE-PER
+na, W
+impeachable, W
+offense, W
+ang, W
+ginawa, W
+ni, W
+Pangulong Marcos, NE-PER
+sa, W
+dating pangulo, NE-PER
+at, W
+labag, W
+sa, W
+konstitusyon, W
+., W
+
+“, W
+Ang, W
+opinyon, W
+na, W
+nanggagaling, W
+sa, W
+bise presidente, NE-PER
+ay, W
+walang, W
+pinanggagalingan, W
+,, W
+walang, W
+basehan, W
+,, W
+”, W
+pahayag, W
+pa, W
+ni, W
+Castro, NE-PER
+., W
+
+Nanindigan, W
+din, W
+si, W
+Castro, NE-PER
+na, W
+sinunod, W
+ng, W
+gobyerno, NE-ORG
+ang, W
+proseso, W
+sa, W
+pakikipagtulungan, W
+sa, W
+Interpol, NE-ORG
+at, W
+ito, W
+ay, W
+naaayon, W
+sa, W
+batas, W
+dahil, W
+ang, W
+dating pangulo, NE-PER
+ay, W
+akusado, W
+at, W
+suspek, W
+sa, W
+crimes against humanity, MWE
+,, W
+partikular, W
+ang, W
+murder, W
+., W
+
+Iginiit, W
+din, W
+niya, W
+na, W
+hindi, W
+pagsuko, W
+ng, W
+soberanya, W
+ang, W
+ginawa, W
+ng, W
+gobyerno, NE-ORG
+kundi, W
+pagsuko, W
+ng, W
+isang, W
+akusado, W
+., W
+
+“, W
+Ang, W
+pamahalaan, NE-ORG
+,, W
+nagsuko, W
+man, W
+kay, W
+dating Pangulong Duterte, NE-PER
+,, W
+siya, W
+ay, W
+kinokonsiderang, W
+akusado, W
+,, W
+isang, W
+suspect, W
+sa, W
+crimes against humanity, MWE
+,, W
+particularly, W
+murder, W
+na, W
+ang, W
+nagsampa, W
+ay, W
+kapwa, W
+Pilipino, NE-PER
+,, W
+”, W
+sinabi, W
+pa, W
+ni, W
+Castro, NE-PER
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Iginiit, W
+ni, W
+reelectionist, W
+Sen.Lito Lapid, NE-PER
+na, W
+dapat, W
+mapanatili, W
+ang, W
+iconic, W
+traditional jeepney, MWE
+sa, W
+pagmo-modernize, MWE
+ng, W
+public utility vehicles, MWE
+., W
+
+“, W
+Kaya, W
+naman, W
+natin, W
+na, W
+gawing, W
+modernize, W
+ang, W
+mga traditional jeepney, MWE
+natin, W
+,, W
+maging, W
+aircon, W
+para, W
+maging, W
+komportable, W
+ang, W
+pagsakay, W
+ng, W
+ating, W
+mga pasahero, MWE
+,, W
+at, W
+‘yung, MWE
+iba pa, MWE
+nga, W
+pinapatakbo, W
+na, W
+ng, W
+kuryente, W
+”, W
+ayon, W
+sa, W
+senador, NE-PER
+., W
+
+Dapat, W
+umanong, W
+suportahan, W
+at, W
+bigyan, W
+ng, W
+subsidiya, W
+ng, W
+gobyerno, NE-ORG
+ang, W
+mga local manufacturer, MWE
+ng, W
+traditional jeepney, MWE
+na, W
+gumagawa, W
+na, W
+ng, W
+makabagong, W
+sasakyan, W
+alinsunod, W
+sa, W
+public, W
+transport, W
+modernization, W
+program, W
+(PTMP), MWE
+., W
+
+“, W
+Habang, W
+nire-review, MWE
+ang, W
+implementasyon, W
+nito, W
+,, W
+tulungan, W
+natin, W
+ang, W
+mga local manufacturer, MWE
+na, W
+makagawa, W
+ng, W
+makabagong, W
+sasakyan, W
+na, W
+kapareho, W
+ng, W
+mga traditional jeepney, MWE
+natin, W
+,, W
+upang, W
+sa gayon, MWE
+ay, W
+patuloy, W
+pa, W
+rin, W
+natin, W
+silang, W
+makita, W
+sa, W
+ating, W
+mga lansangan, MWE
+sa, W
+mga susunod na henerasyon, MWE
+pero, W
+modernized, W
+na, W
+., W
+Ito, W
+ay, W
+isang, W
+Tatak Pinoy, MWE
+na, W
+dapat, W
+pinapahalagahan, W
+,, W
+”, W
+sabi, W
+pa, W
+ni, W
+Lapid, NE-PER
+., W
+
+Si, W
+Lapid, NE-PER
+ay, W
+naging, W
+konduktor, W
+din, W
+ng, W
+jeep, W
+sa, W
+Pampanga, NE-LOC
+noon, W
+., W
+
+Suportado, W
+ng, W
+senador, NE-PER
+ang, W
+konseptong, W
+Tatak Pinoy, MWE
+o, W
+Filipino First, MWE
+policy, W
+at, W
+ang, W
+iconic, W
+na, W
+traditionally-designed jeepney, MWE
+ay, W
+isang, W
+magandang, W
+halimbawa, W
+nito, W
+., W
+Bumoto, W
+siya, W
+sa, W
+pagpasa, W
+sa, W
+senado, NE-ORG
+ng, W
+Republic, W
+Act, W
+11981, W
+o, W
+ang, W
+Tatak Pinoy (Proudly Filipino) Act, MWE
+na, W
+humihikayat, W
+at, W
+nagsusulong, W
+ng, W
+mga lokal, MWE
+na, W
+produkto, W
+at, W
+serbisyo, W
+., W
+
+Kasalukuyang, W
+nakabinbin, W
+ang, W
+implementasyon, W
+ng, W
+PTMP, W
+at, W
+isa, W
+si, W
+Lapid, NE-PER
+sa, W
+pumirma, W
+sa, W
+isang, W
+senate, NE-ORG
+resolusyon, W
+na, W
+humihiling, W
+na, W
+isantabi, W
+muna, W
+ang, W
+nasabing, W
+programa, W
+na, W
+ang, W
+dating, W
+tawag, W
+ay, W
+public, W
+utility, W
+vehicle, W
+modernization, W
+program, W
+,, W
+upang, W
+mas, W
+mapulido, W
+ito, W
+at, W
+matugunan, W
+ang, W
+mga hinaing, MWE
+ng, W
+mga operator, MWE
+at, W
+tsuper, W
+., W
+
+Ilan, W
+sa, W
+mga reklamo, MWE
+ng, W
+mga transport group, MWE
+ang, W
+napakamahal, W
+na, W
+presyo, W
+ng, W
+mga modern public utility vehicle, MWE
+na, W
+mini-bus, MWE
+ang, W
+disensyo, W
+at, W
+inaangkat, W
+pa, W
+sa ibang bansa, MWE
+,, W
+at, W
+kakulangan, W
+sa, W
+subsidiya, W
+upang, W
+makabili, W
+nito, W
+., W
+
+Bilang, W
+pagsuporta, W
+sa, W
+modernized, W
+iconic, W
+traditional jeepney, MWE
+,, W
+si, W
+Lapid, NE-PER
+ay, W
+nag-motorcade, MWE
+ngayong, W
+Martes, W
+sa, W
+Muntinlupa, NE-LOC
+at, W
+Las Pinas, NE-LOC
+cities, W
+kasama, W
+ang, W
+dalawang, W
+traditionally-designed, MWE
+modern, W
+jeepney, W
+., W
+
+Umikot, W
+din, W
+si, W
+Lapid, NE-PER
+na, W
+tumatakbo, W
+para, W
+sa, W
+kanyang, W
+ikaapat, W
+na, W
+termino, W
+sa, W
+Senado, NE-ORG
+sa, W
+lungsod ng Taguig, NE-LOC
+ngayong, W
+hapon, W
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Iginiit, W
+ni, W
+Senate President Francis “ Chiz ” G.Escudero, NE-PER
+na, W
+tanggalan, W
+ng, W
+driver’s license, MWE
+ang, W
+mga iresponsableng motorista, MWE
+na, W
+sangkot, W
+sa, W
+road, W
+rage, W
+at, W
+iba, W
+pang, W
+vehicular, W
+crashes, W
+upang, W
+magkaroon, W
+ng, W
+disiplina, W
+sa, W
+mga kalsada, MWE
+., W
+
+Sinabi, W
+ni, W
+Escudero, NE-PER
+na, W
+nauso, W
+na, W
+sa, W
+social media, MWE
+ang, W
+mga content, MWE
+ng, W
+mga “ kamote drivers ”, MWE
+na, W
+ibinabandera, W
+pa, W
+ang, W
+kanilang, W
+mga paglabag, MWE
+., W
+
+“, W
+Naging, W
+uso, W
+na, W
+content, W
+sa, W
+social media, MWE
+ang, W
+video, W
+ng, W
+mga “ kamote drivers ”, MWE
+pero, W
+sa, W
+totoo, W
+lang, W
+ay, W
+hindi, W
+nakakatawa, W
+o, W
+nakakaaliw, W
+ang, W
+kilos, W
+ng, W
+mga ito, MWE
+., W
+Ang, W
+daming, W
+napeperwisyo, W
+at, W
+kadalasan, W
+ay, W
+nauuwi, W
+sa, W
+karahasan, W
+ang, W
+mga pangyayaring ito, MWE
+,, W
+”, W
+ani, W
+Escudero, NE-PER
+., W
+
+Para, W
+kay, W
+Escudero, NE-PER
+,, W
+hindi, W
+sapat, W
+ang, W
+pagsuspindi, W
+lang, W
+sa, W
+lisensiya, W
+ng, W
+mga drivers, MWE
+., W
+
+“, W
+Upang, W
+matiyak, W
+na, W
+ligtas, W
+ang, W
+ating, W
+mga kalsada, MWE
+mula sa, MWE
+mga motoristang ito, MWE
+,, W
+dapat, W
+tanggalin, W
+ang, W
+kanilang, W
+mga lisensya, MWE
+,, W
+hindi, W
+sinuspinde, W
+,, W
+”, W
+dagdag, W
+ni, W
+Escudero, NE-PER
+., W
+
+Idinagdag, W
+ni, W
+Escudero, NE-PER
+na, W
+nakakalungkot, W
+na, W
+nananatiling, W
+pangunahing, W
+sanhi, W
+ng, W
+mga problema, MWE
+sa, W
+kalsada, W
+sa, W
+bansa, W
+ang, W
+kawalan, W
+ng, W
+disiplina, W
+sa, W
+kalsada, W
+., W
+
+Kailangan, W
+na, W
+aniyang, W
+gumawa, W
+ng, W
+mga marahas na hakbang, MWE
+katulad, W
+ng, W
+tuluyang, W
+pagbawi, W
+ng, W
+lisensiya, W
+ng, W
+mga abusadong drivers, MWE
+., W
+
+Malinaw, W
+aniya, W
+na, W
+hindi na, MWE
+sapat, W
+ang, W
+90-araw, MWE
+na, W
+suspensiyon, W
+na, W
+ipinataw, W
+ng, W
+Land Transportation Office, NE-ORG
+bilang, W
+pagpigil, W
+sa, W
+masamang, W
+ugali, W
+ng, W
+mga “ kamote drivers ”, MWE
+., W
+
+“, W
+Ang, W
+lisensya, W
+sa, W
+pagmamaneho, W
+ay, W
+isang, W
+pribilehiyo, W
+at, W
+hindi, W
+isang, W
+karapatan, W
+., W
+Mayroon, W
+kang, W
+ilang, W
+mga responsibilidad, MWE
+habang, W
+nagpapatakbo, W
+ng, W
+sasakyan, W
+., W
+Kapag, W
+walang, W
+disiplina, W
+ang, W
+motorista, W
+,, W
+dapat, W
+tanggalan, W
+lang, W
+sila, W
+ng, W
+lisensya, W
+,, W
+”, W
+ani, W
+Escudero, NE-PER
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Inakusahan, W
+ng, W
+Palasyo, NE-ORG
+si, W
+Vice President Sara Duterte, NE-PER
+na, W
+siyang, W
+“, W
+source, W
+”, W
+o, W
+pinanggagalingan, W
+ng, W
+fake news, MWE
+tungkol, W
+kay, W
+First Lady Liza Marcos, NE-PER
+., W
+
+Sinabi, W
+ni, W
+Palace Press Officer Undersecretary Atty.Claire Castro, NE-PER
+,, W
+na, W
+sa, W
+Bise Presidente, NE-PER
+pala, W
+nanggaling, W
+ang, W
+tsismis, W
+tungkol, W
+sa, W
+kinaroroonan, W
+ng, W
+Unang Ginang, NE-PER
+noong, W
+Marso, W
+., W
+
+“, W
+Sa kaniya, MWE
+pala, W
+nanggaling, W
+ang, W
+fake news, MWE
+., W
+Siya, W
+pala, W
+ang, W
+pinagmulan, W
+ng, W
+maling, W
+balita, W
+laban, W
+sa, W
+Unang Ginang, NE-PER
+., W
+Unang-una, MWE
+,, W
+kailangan, W
+pa, W
+ba, W
+nating, W
+paniwalaan, W
+ang, W
+ganitong, W
+klaseng, W
+kuwento, W
+kung, W
+mismo, W
+sa, W
+Bise Presidente, NE-PER
+nanggagaling, W
+?, W
+”, W
+giit, W
+pa, W
+ni, W
+Castro, NE-PER
+., W
+
+Paliwanag, W
+pa, W
+niya, W
+,, W
+dumating, W
+ang, W
+Unang Ginang, NE-PER
+sa, W
+Pilipinas, NE-LOC
+noong, W
+Marso 10,2025, MWE
+at, W
+Marso 11,2025, MWE
+nang, W
+magkaroon, W
+ito, W
+ng, W
+aktibidad, W
+kasama, W
+ang, W
+mga kinatawan, MWE
+ng, W
+Girl Scouts of the Philippines, NE-ORG
+., W
+Kung, W
+gusto, W
+aniya, W
+itong, W
+alamin, W
+ni, W
+VP Sara, NE-PER
+ay, W
+may, W
+record, W
+naman, W
+ito, W
+., W
+
+Mariing, W
+pinabulaanan, W
+din, W
+ni, W
+Castro, NE-PER
+ang, W
+mga ulat, MWE
+na, W
+naharang, W
+o, W
+hinuli, W
+umano, W
+si, W
+First Lady, NE-PER
+ng, W
+mga awtoridad, MWE
+sa, W
+Estados Unidos, NE-LOC
+,, W
+kung saan, MWE
+siya, W
+ay, W
+nasa, W
+isang, W
+working, W
+visit, W
+upang, W
+dumalo, W
+sa, W
+Meeting, W
+of, W
+the, W
+Minds, W
+at, W
+sa, W
+Manila International Film Festival, MWE
+., W
+
+Nasa, W
+Miami,Florida, NE-LOC
+at, W
+Los Angeles,California, NE-LOC
+aniya, W
+si, W
+FL Marcos, NE-PER
+mula, W
+Marso 5 hanggang 8, MWE
+., W
+
+Buwelta, W
+naman, W
+ni, W
+Duterte, NE-PER
+,, W
+“, W
+Lagi, W
+ko, W
+namang, W
+sinasabi, W
+huwag, W
+na, W
+tayong, W
+makinig, W
+kay, W
+Claire Castro, NE-PER
+at, W
+sa, W
+pinsan, W
+niya, W
+na, W
+si, W
+France Castro, NE-PER
+dahil, W
+nga, W
+ang, W
+kanilang, W
+pamilya, W
+ay, W
+pamilya, W
+ng, W
+garbage, W
+in, W
+,, W
+garbage, W
+out, W
+., W
+So, W
+,, W
+basura, W
+lagi, W
+ang, W
+lumalabas, W
+sa, W
+bibig, W
+., W
+”, W
+
+MANILA,Philippines, NE-LOC
+—, W
+“, W
+Kung, W
+may, W
+tiyaga, W
+,, W
+may, W
+nilaga, W
+., W
+”, W
+
+Angkop, W
+ang, W
+matandang, W
+katawagang, W
+ito, W
+sa, W
+karanasan, W
+ng, W
+52-anyos, MWE
+na, W
+ginang, W
+na, W
+si, W
+Francisca Torres, NE-PER
+ng, W
+Cuenca,Batangas, NE-LOC
+., W
+
+Isa, W
+si, W
+Torres, NE-PER
+sa, W
+mga regular, MWE
+na, W
+tumatangkilik, W
+sa, W
+ScratchIt, W
+,, W
+isa, W
+sa, W
+mga lottery game, MWE
+ng, W
+Philippine Charity Sweepstakes Office, NE-ORG
+., W
+
+Sa, W
+larong, W
+ito, W
+na, W
+marami, W
+ring, W
+klase, W
+,, W
+kinakaskas, W
+ang, W
+isang, W
+play, W
+area, W
+ng, W
+tiket, W
+para, W
+lumabas, W
+ang, W
+winning, W
+symbol, W
+o, W
+pattern, W
+na, W
+katumbas, W
+ng, W
+halagang, W
+mapapanalunan, W
+na, W
+agad, W
+na, W
+matatanggap, W
+ng, W
+nanalo, W
+., W
+
+Ibinahagi, W
+ni, W
+Torres, NE-PER
+na, W
+lagi, W
+siyang, W
+bumibili, W
+ng, W
+tiket, W
+ng, W
+ScratchIt, W
+,, W
+pero, W
+,, W
+kamakailan, W
+lang, W
+,, W
+laking, W
+gulat, W
+niya, W
+nang, W
+mapanalunan, W
+niya, W
+ang, W
+halagang, W
+P200,000, MWE
+., W
+
+Sinabi, W
+ni, W
+Torres, NE-PER
+na, W
+,, W
+nang, W
+mga sandaling iyon, MWE
+,, W
+isang, W
+tiket, W
+lang, W
+naman, W
+ng, W
+ScratchIt, W
+Go, NE-PER
+Bananas, W
+ang, W
+kanyang, W
+binbili, W
+na, W
+naging, W
+malaking, W
+sorpresa, W
+sa kanya, MWE
+dahil, W
+nanalo, W
+agad, W
+siya, W
+ng, W
+P200,000, MWE
+., W
+
+“, W
+Masaya, W
+ako, W
+dahil, W
+nanalo, W
+ako, W
+sa, W
+ScratchIt, W
+,, W
+sakto, W
+at, W
+inaayos, W
+pa, W
+ang, W
+aming, W
+bahay, W
+., W
+May, W
+pampaayos, W
+na, W
+kami, W
+!, W
+”, W
+bulalas, W
+ng, W
+ginang, W
+na, W
+nasabing, W
+nang, W
+mga oras, MWE
+na, W
+iyon, W
+., W
+
+“, W
+Nakakatuwa, W
+lang, W
+,, W
+”, W
+dagdag, W
+ng, W
+ginang, W
+,, W
+na, W
+sa kasalukuyan, MWE
+ay, W
+naglalaro, W
+pa, W
+rin, W
+ng, W
+ScratchIt, W
+., W
+
+Tip, W
+niya, W
+sa, W
+ibang, W
+mga player, MWE
+ng, W
+ScratchIt, W
+,, W
+“, W
+Maglaro, W
+lang, W
+nang, W
+maglaro, W
+ng, W
+Go, NE-PER
+Bananas, W
+at, W
+makukuha, W
+niyo, W
+rin, W
+ang, W
+P200,000, MWE
+., W
+”, W
+
+Makakabili, W
+ng, W
+isang, W
+tiket, W
+na, W
+halagang, W
+P20, W
+na, W
+mayroong, W
+premyong, W
+hanggang, W
+P200,000, MWE
+,, W
+P50, W
+na, W
+maaaring, W
+manalo, NE-PER
+ng, W
+hanggang, W
+P500,000, MWE
+,, W
+at, W
+P100, W
+para, W
+sa, W
+premyo, W
+na, W
+hanggang, W
+P1,000,000, MWE
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+In, W
+a, W
+pre-election, MWE
+survey, W
+of, W
+over, W
+2,400, MWE
+likely, W
+voters, W
+,, W
+40.1 %, MWE
+identified, W
+as, W
+“, W
+pro-Duterte, NE-ORG
+”, W
+or, W
+supporters, W
+of, W
+former President Rodrigo Duterte, NE-PER
+,, W
+his, W
+family, W
+and, W
+politicians, W
+aligned, W
+with, W
+them, W
+., W
+
+Public, W
+opinion, W
+research, W
+firm, W
+WR Numero, NE-ORG
+released, W
+the, W
+results, W
+on, W
+Tuesday,May 6, MWE
+., W
+The, W
+survey, W
+asked, W
+adult, W
+Filipinos, NE-PER
+about, W
+their, W
+preferred, W
+senatorial, W
+candidates, W
+,, W
+party-list, NE-ORG
+groups, W
+and, W
+general, W
+sentiments, W
+on, W
+the, W
+upcoming, W
+elections, W
+., W
+
+Unlike, W
+other, W
+national, W
+polls, W
+,, W
+WR Numero’s, NE-ORG
+survey, W
+also, W
+examined, W
+the, W
+self-identified, MWE
+political, W
+leanings, W
+of, W
+respondents, W
+., W
+It, W
+found, W
+that, W
+two, W
+in, W
+five, W
+aligned, W
+themselves, W
+with, W
+the, W
+Dutertes, W
+—, W
+a, W
+significant, W
+bloc, W
+,, W
+but, W
+not, W
+a, W
+majority, W
+., W
+
+Another, W
+31.4 %, MWE
+identified, W
+as, W
+independent, W
+,, W
+while, W
+the, W
+remaining, W
+28.6 %, MWE
+were, W
+either, W
+“, W
+pro-Marcos, NE-ORG
+”, W
+(15 %), MWE
+or, W
+supporters, W
+of, W
+the, W
+opposition, W
+,, W
+including, W
+figures, W
+like, W
+former Vice President Leni Robredo, NE-PER
+,, W
+Sen.Risa Hontiveros, NE-PER
+and, W
+the, W
+broader, W
+“, W
+pink, W
+”, W
+movement, W
+(13.6 %), MWE
+., W
+
+Combined, W
+,, W
+the, W
+independent, W
+,, W
+Marcos, NE-PER
+and, W
+opposition, W
+supporters, W
+comprised, W
+60 %, MWE
+of, W
+respondents, W
+., W
+This, W
+may, W
+help, W
+explain, W
+why, W
+only, W
+two, W
+Duterte-aligned candidates, NE-PER
+made, W
+it, W
+to, W
+the, W
+winning, W
+circle, W
+in, W
+the, W
+senatorial, W
+race, W
+:, W
+incumbent, W
+Senators, W
+Bong Go, NE-PER
+and, W
+Bato dela Rosa, NE-PER
+., W
+
+At, W
+the, W
+same, W
+time, W
+,, W
+the, W
+results, W
+also, W
+mirror, W
+recent, W
+trends, W
+in, W
+the, W
+performance, W
+ratings, W
+of, W
+President Ferdinand “ Bongbong ” Marcos Jr., NE-PER
+and, W
+Vice President Sara Duterte, NE-PER
+., W
+While, W
+Marcos, NE-PER
+has, W
+seen, W
+a, W
+decline, W
+,, W
+Sara, NE-PER
+has, W
+maintained, W
+stronger, W
+approval, W
+in, W
+recent, W
+months, W
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Oobligahin, W
+na, W
+ng, W
+Department of Transportation (DOTr), NE-ORG
+na, W
+sumailalim, W
+sa, W
+mandatory, W
+drug test, MWE
+ang, W
+mga driver, MWE
+ng, W
+mga public utility vehicles (PUVs), MWE
+at, W
+motorcycle, W
+taxis, W
+upang, W
+maiwasan, W
+ang, W
+mga aksidente, MWE
+sa, W
+kalsada, W
+,, W
+alinsunod, W
+na, W
+rin, W
+sa, W
+kautusan, W
+ni, W
+Pangulong Ferdinand Marcos Jr., NE-PER
+., W
+
+Ayon, W
+kay, W
+DOTr Secretary Vince Dizon, NE-PER
+,, W
+ipatutupad, W
+ang, W
+drug test, MWE
+tuwing, W
+ika-90, MWE
+araw, W
+o, W
+3, W
+buwan, W
+., W
+
+Ang, W
+hakbang, W
+ay, W
+dulot, W
+na, W
+rin, W
+nang, W
+sunud-sunod, MWE
+na, W
+aksidente, W
+sa, W
+lansangan, W
+na, W
+ang, W
+pinaka, W
+huli, W
+ay, W
+ang, W
+madugong, W
+SCTEX, NE-LOC
+accident, W
+sa, W
+Tarlac, NE-LOC
+na, W
+ikinasawi, W
+ng, W
+12, W
+katao, W
+kinasasangkutan, W
+ng, W
+Solid North bus, NE-ORG
+kung saan, MWE
+ang, W
+driver, W
+nito, W
+ay, W
+ayaw, W
+pa-drug test, MWE
+., W
+
+Anya, W
+,, W
+makikipag-ugnayan, MWE
+ang, W
+DOTr, NE-ORG
+sa, W
+Philippine Drug Enforcement Agency, NE-ORG
+para, W
+maipatupad, W
+ang, W
+mandatory, W
+drug testing, MWE
+sa, W
+mga PUV, MWE
+at, W
+motorcycle, W
+taxi, W
+drivers, W
+., W
+
+Inatasan, W
+na, W
+rin, W
+ni, W
+Dizon, NE-PER
+ang, W
+LTFRB, NE-ORG
+at, W
+LTO, NE-ORG
+na, W
+rebisahin, W
+ang, W
+maximum, W
+na, W
+bilang, W
+ng, W
+consecutive, W
+driving, W
+hours, W
+ng, W
+mga tsuper, MWE
+., W
+Lilimitahan, W
+ito, W
+sa, W
+apat, W
+na, W
+oras, W
+na, W
+lamang, W
+,, W
+mula sa, MWE
+anim, W
+na, W
+oras, W
+., W
+
+Para, W
+aniya, W
+sa, W
+mga long-haul trips, MWE
+na, W
+lampas, W
+ng, W
+apat, W
+na, W
+oras, W
+,, W
+ire-require, MWE
+ang, W
+mga transport operators, MWE
+na, W
+magtalaga, W
+ng, W
+isang, W
+reliever, W
+driver, W
+., W
+
+Isinusulong, W
+din, W
+naman, W
+ng, W
+DOTr, NE-ORG
+ang, W
+full, W
+implementation, W
+ng, W
+Republic, W
+Act, W
+?, W
+10916, W
+,, W
+o, W
+ang, W
+Road, W
+Speed, W
+Limiter, W
+Act, W
+,, W
+na, W
+nagmamandato, W
+sa, W
+instalasyon, W
+ng, W
+speed, W
+limiters, W
+sa, W
+PUVs, W
+., W
+
+Ipinaliwanag, W
+ni, W
+Dizon, NE-PER
+na, W
+kailangang, W
+maramdaman, W
+ng, W
+mga mamamayan, MWE
+na, W
+ligtas, W
+sila, W
+sa, W
+kanilang, W
+pagbiyahe, W
+sa, W
+mga lansangan, MWE
+., W
+
+MANILA,Philippines, NE-LOC
+—, W
+Nagkabit, W
+na, W
+ng, W
+chimney, W
+sa, W
+bubong, W
+ng, W
+Sistine Chapel, NE-LOC
+habang, W
+patuloy, W
+ang, W
+paghahanda, W
+para, W
+sa, W
+Conclave, W
+na, W
+isasagawa, W
+sa, W
+Miyerkules (Mayo 7), MWE
+para, W
+sa susunod, MWE
+na, W
+Santo Papa, NE-PER
+,, W
+kapalit ng, MWE
+namayapang, W
+si, W
+Pope Francis, NE-PER
+., W
+
+Kinumpirma, W
+ng, W
+Vatican, NE-LOC
+na, W
+tagumpay, W
+naman, W
+ang, W
+isinagawang, W
+testing, W
+sa, W
+chimney, W
+na, W
+konektado, W
+sa, W
+dalawang, W
+makasaysayang, W
+kalan, W
+na, W
+ang isa, MWE
+ay, W
+gawa, W
+sa, W
+cast, W
+iron, W
+na, W
+ginamit, W
+sa, W
+pagsunog, W
+ng, W
+balota, W
+simula, W
+noong, W
+1939, W
+at, W
+isa pa, MWE
+na, W
+modernong, W
+unit, W
+namang, W
+kalan, W
+na, W
+gawa, W
+noong, W
+2005, W
+at, W
+ginamit, W
+na, W
+pampausok, W
+,, W
+bilang, W
+senyales, W
+., W
+
+Ang, W
+usok, W
+na, W
+inaabangan, W
+,, W
+na, W
+kung, W
+itim, W
+ang, W
+lalabas, W
+ay, W
+indikasyong, W
+wala, W
+pang, W
+desisyon, W
+habang, W
+kung, W
+puting, W
+usok, W
+,, W
+kasabay, W
+ng, W
+pagtunog, W
+ng, W
+kampana, W
+ng, W
+St.Peter, NE-LOC
+,, W
+ay, W
+senyales, W
+na, W
+mayroon, W
+nang, W
+bagong Pope, NE-PER
+., W
+
+Sa kasalukuyan, MWE
+ay, W
+patuloy, W
+pa, W
+rin, W
+ang, W
+talakayan, W
+ng, W
+mga kardinal, MWE
+bago, W
+ang, W
+Conclave, W
+., W
+Upang, W
+mahalal, W
+,, W
+dapat, W
+ay, W
+makakuha, W
+ng, W
+89, W
+boto, W
+o, W
+2/3, MWE
+ng, W
+mayorya, W
+ang, W
+isang, W
+kandidato, W
+., W
+
+Kabilang, W
+sa, W
+mga nangungunang mga kandidato, MWE
+o, W
+“, W
+papabili, W
+”, W
+sina, W
+Vatican Secretary of State Pietro Parolin, NE-PER
+at, W
+ang, W
+Pilipino, NE-PER
+na, W
+si, W
+Cardinal Luis Antonio Tagle, NE-PER
+,, W
+habang, W
+ang, W
+iba pa, MWE
+ay, W
+mula sa, MWE
+iba’t-ibang, MWE
+kontinente, W
+,, W
+na, W
+sumasalamin, W
+sa, W
+pagsisikap, W
+ni, W
+Pope Francis, NE-PER
+na, W
+i-desentralisado, MWE
+ang, W
+pamumuno, W
+ng, W
+Simbahan, NE-ORG
+., W
+
+Sa, W
+133, W
+cardinal, NE-PER
+na, W
+may, W
+karapatang, W
+bumoto, W
+,, W
+108, W
+ay, W
+appointee, W
+ni, W
+Pope Francis, NE-PER
+,, W
+na, W
+ang, W
+pinakabata, W
+sa, W
+edad, W
+na, W
+45, W
+ay, W
+si, W
+Ukranian Mykola Byok, NE-PER
+habang, W
+ang, W
+pinakamatanda, W
+ay, W
+si, W
+Carlos Osoro Sierra, NE-PER
+,, W
+na, W
+isang, W
+Espanyol, NE-PER
+,, W
+na, W
+magdiriwang, W
+ng, W
+ika-80, MWE
+kaarawan, W
+sa, W
+buwang, W
+ito, W
+., W
+
+Limang, W
+taon, W
+na, W
+rin, W
+palang, W
+walang, W
+franchise, W
+ang, W
+ABS-CBN, NE-ORG
+., W
+
+Pero, W
+tuloy, W
+ang, W
+kanilang, W
+mga ginagawa, MWE
+,, W
+as if, MWE
+may, W
+franchise, W
+
+Like, W
+buong, W
+pwersa, W
+ang, W
+ABS-CBN News, NE-ORG
+ay, W
+magbabantay, W
+sa, W
+mga pangyayari, MWE
+sa, W
+araw, W
+ng, W
+midterm, W
+elections, W
+,, W
+bawat, W
+oras, W
+mula, W
+botohan, W
+hanggang, W
+bilangan, W
+,, W
+sa, W
+Halalan 2025, MWE
+marathon, W
+coverage, W
+ngayong, W
+Mayo 12, MWE
+hanggang, W
+Mayo 13, MWE
+sa, W
+Kapamilya, W
+Channel, W
+,, W
+A2Z, NE-ORG
+at, W
+ANC, NE-ORG
+., W
+
+Ihahatid, W
+ng, W
+Halalan 2025, MWE
+ang, W
+special, W
+coverage, W
+,, W
+ang, W
+real-time, MWE
+updates, W
+,, W
+breaking, W
+news, W
+,, W
+at, W
+election, W
+analysis, W
+sa, W
+mga Pilipino, MWE
+sa, W
+ABS-CBN News, NE-ORG
+at, W
+ANC, NE-ORG
+24/7, MWE
+channel, W
+sa, W
+YouTube, NE-ORG
+at, W
+sa, W
+iba pa, MWE
+nitong, W
+digital, W
+platforms, W
+sa, W
+Facebook, NE-ORG
+,, W
+X, NE-ORG
+,, W
+Instagram, NE-ORG
+at, W
+TikTok, NE-ORG
+., W
+
+Mangunguna, W
+sa, W
+paghahatid, W
+ng, W
+mga pinakamaiinit, MWE
+na, W
+balita, W
+ang, W
+ilan, W
+sa, W
+mga batikang mamamahayag, MWE
+sa, W
+bansa, W
+na, W
+sina, W
+Noli “ Kabayan ” de Castro, NE-PER
+,, W
+Karen Davila, NE-PER
+,, W
+Bernadette Sembrano, NE-PER
+,, W
+Alvin Elchico, NE-PER
+,, W
+Jeff Canoy, NE-PER
+,, W
+Zen Hernandez, NE-PER
+,, W
+Adrian Ayalin, NE-PER
+,, W
+Tony Velasquez, NE-PER
+,, W
+Karmina Constantino, NE-PER
+,, W
+Ron Cruz, NE-PER
+,, W
+at, W
+Rico Hizon, NE-PER
+., W
+
+Kasama, W
+rin, W
+sina, W
+TJ Manotoc, NE-PER
+,, W
+Stanley Palisada, NE-PER
+,, W
+Denice Dinsay, NE-PER
+,, W
+Michelle Ong, NE-PER
+at, W
+Migs Bustos, NE-PER
+., W
+
+Magpapatrol, W
+din, W
+ang, W
+ABS-CBN News reporters, NE-PER
+sa, W
+iba’t ibang sulok, MWE
+ng, W
+bansa, W
+para, W
+ihatid, W
+ang, W
+unang, W
+bugso, W
+ng, W
+mga resulta, MWE
+sa, W
+bilangan, W
+ng, W
+boto, W
+hanggang, W
+sa, W
+proklamasyon, W
+ng, W
+mga kandidato, MWE
+., W
+
