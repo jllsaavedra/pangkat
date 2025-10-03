@@ -1,0 +1,2 @@
+The main dependency of PANGKAT is Python 3, which can be downloaded from its official website at https://www.python.org/downloads/.
+For its accompanying GUI, it uses the Tkinter package in Python.
