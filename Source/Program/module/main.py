@@ -8,14 +8,3 @@ PANGKAT = pangkat.PANGKAT()
 # The labelTokens function returns the arrays of the resulting tokens and their labels
 # Results are stored in independent arrays for both short and longer unit tokenization
 tokenList, labelList, longerTokenList, longerLabelList = PANGKAT.labelTokens("input.txt")
-
-
-
-print("\nShort Unit Tokenization Results: \n")
-print(tokenList)
-print(labelList)
-
-print("\nLonger Unit Tokenization Results: \n")
-print(longerTokenList)
-print(str(longerLabelList) + "\n")
-
