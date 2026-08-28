@@ -187,7 +187,7 @@ sa, O
 isang, O 
 dankal, O 
 na, O 
-kapag, O 
+pag, O 
 kinumpas, O 
 ng, O 
 malakas, O 
