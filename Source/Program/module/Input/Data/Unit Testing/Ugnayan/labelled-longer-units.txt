@@ -1,0 +1,998 @@
+", W
+Tay, W
+,, W
+pwede, W
+ba, W
+akong, W
+sumama, W
+sa, W
+pasada, W
+ninyo, W
+?, W
+", W
+tanong, W
+ko, W
+kay, W
+Tatay, W
+., W
+
+", W
+Sabado, W
+naman, W
+ngayon, W
+eh, W
+., W
+", W
+
+Sandaling, W
+nag-isip, MWE
+si, W
+Tatay, W
+bago, W
+niya, W
+sinabing, W
+,, W
+", W
+Sige, W
+ba, W
+,, W
+anak, W
+!, W
+", W
+
+Umakyat, W
+ako, W
+sa, W
+jeep, W
+ni, W
+Tatay, W
+at, W
+umupo, W
+sa tabi, MWE
+niya, W
+., W
+
+At, W
+doon, W
+nagsimula, W
+ang, W
+isang, W
+kakaibang, W
+araw, W
+para sa akin, MWE
+., W
+
+Drayber, W
+kasi, W
+ng, W
+jeepney, W
+ang, W
+tatay, W
+ko, W
+., W
+
+At, W
+ngayong, W
+araw, W
+ay, W
+kasama, W
+niya, W
+akong, W
+pumasada, W
+!, W
+
+Tuwing, W
+sumasama, W
+ako, W
+sa, W
+pasada, W
+,, W
+ako, W
+ang, W
+opisyal, W
+na, W
+tagakolekta, W
+ng, W
+bayad, W
+., W
+
+Iba't ibang tao, MWE
+ang, W
+sumasakay, W
+sa, W
+jeepney, W
+ni, W
+Tatay, W
+., W
+
+May, W
+mga estudyanteng papasok, MWE
+ng, W
+eskuwela, W
+., W
+
+Nakasuot, W
+sila, W
+ng, W
+uniporme, W
+at, W
+maraming, W
+dalang, W
+libro, W
+., W
+
+May, W
+aleng, W
+mamamalengke, W
+na, W
+may, W
+dalang, W
+bayong, W
+., W
+
+May, W
+nanay, W
+na, W
+may, W
+kasamang, W
+anak, W
+., W
+
+Pero, W
+may, W
+isang, W
+taong, W
+sumakay, W
+na, W
+bukod-tangi, MWE
+., W
+
+Ang, W
+suot, W
+niya'y, MWE
+makulay, W
+na, W
+kamiseta, W
+at, W
+pantalon, W
+na, W
+sobrang, W
+luwang, W
+sa kaniya, MWE
+., W
+
+Napakalaki, W
+ng, W
+sapatos, W
+niyang, W
+pula, W
+!, W
+
+Pula, W
+rin, W
+ang, W
+ilong, W
+niya, W
+., W
+
+Puting-puti, MWE
+ang, W
+mukha, W
+niya, W
+at, W
+kulay, W
+asul, W
+ang, W
+kulot, W
+niyang, W
+buhok, W
+., W
+
+Hindi ko, MWE
+mapigilang, W
+tignan, W
+ang, W
+kakaibang, W
+taong, W
+ito, W
+sa, W
+salamin, W
+., W
+
+Tinititigan, W
+din, W
+siya, W
+ng, W
+mga katabi, MWE
+niya, W
+., W
+
+Ngumiti, W
+siya, W
+sa, W
+mga kasakay, MWE
+niya, W
+sabay-labas, MWE
+ng, W
+limang, W
+bola, W
+mula sa, MWE
+kaniyang, W
+bulsa, W
+., W
+
+Isa-isa, MWE
+niyang, W
+itinapon, W
+ang, W
+mga bola, MWE
+pataas, W
+at, W
+sinalo, W
+., W
+
+Paulit-ulit, MWE
+niya, W
+itong, W
+ginawa, W
+at, W
+wala, W
+ni, W
+isang, W
+bolang, W
+nahulog, W
+!, W
+
+", W
+Wow, W
+!, W
+Ang, W
+galing, W
+!, W
+", W
+sabi, W
+ng, W
+mga kasakay, MWE
+at, W
+pumalakpak, W
+kaming, W
+lahat, W
+., W
+
+Pagliko, W
+namin, W
+sa, W
+isang, W
+kanto, W
+,, W
+may, W
+inilabas, W
+naman, W
+siya, W
+sa, W
+isa pa, MWE
+niyang, W
+bulsa, W
+., W
+
+Inilagay, W
+niya, W
+ito, W
+sa, W
+kaniyang, W
+bibig, W
+at, W
+nagsimula, W
+siyang, W
+umihip, W
+., W
+
+Makaraan, W
+ng, W
+ilang, W
+sandali, W
+naging, W
+isang, W
+mahabang, W
+lobo, W
+ito, W
+., W
+
+Pagkatapos, W
+,, W
+ipinilipit, W
+niya, W
+ang, W
+lobo, W
+., W
+
+", W
+Wow, W
+!, W
+Nagmukhang, W
+aso, W
+ang, W
+lobo, W
+!, W
+", W
+sigaw, W
+ko, W
+., W
+
+Nagpalakpakan, W
+uli, W
+ang, W
+mga pasahero, MWE
+ni, W
+Tatay, W
+., W
+
+Nang, W
+malapit, W
+na, W
+kami, W
+sa, W
+plasa, W
+,, W
+may, W
+inilabas, W
+naman, W
+siyang, W
+makulay, W
+na, W
+bulaklak, W
+., W
+
+Inamoy, W
+niya, W
+ito, W
+., W
+
+Tila, W
+ang, W
+bango, W
+ng, W
+bulaklak, W
+dahil, W
+napapikit, W
+siya, W
+at, W
+napangiti, W
+., W
+
+Sumenyas, W
+siya, W
+sa, W
+mga kapuwa pasahero, MWE
+niya, W
+para, W
+amuyin, W
+din, W
+nila, W
+ang, W
+hawak, W
+niyang, W
+bulaklak, W
+., W
+
+Inamoy, W
+nga, W
+ng, W
+aleng, W
+katabi, W
+niya, W
+ang, W
+bulaklak, W
+., W
+
+Bigla, W
+na, W
+lang, W
+may, W
+lumabas, W
+na, W
+tubig, W
+sa, W
+bulaklak, W
+!, W
+
+Nabasa, W
+ang, W
+mukha, W
+ng, W
+ale, W
+., W
+
+Pero, W
+hindi, W
+siya, W
+nagalit, W
+—, W
+napangiti, W
+pa, W
+siya, W
+!, W
+
+Tumawa, W
+nang, W
+malakas, W
+ang, W
+iba, W
+pang, W
+pasahero, W
+., W
+
+", W
+Para, W
+po, W
+!, W
+", W
+sabi, W
+ng, W
+kakaibang, W
+mama, W
+., W
+
+Inabot, W
+niya, W
+sa akin, MWE
+ang, W
+bayad, W
+at, W
+isang, W
+lobo, W
+., W
+
+", W
+Maraming salamat, MWE
+po, W
+!, W
+", W
+sabi, W
+ko, W
+., W
+
+Tumingin, W
+ako, W
+kay, W
+Tatay, W
+na, W
+nakangiti, W
+rin, W
+., W
+
+Nagpasalamat, W
+din, W
+si, W
+Tatay, W
+sa, W
+mama, W
+., W
+
+Tumingin, W
+ako, W
+sa, W
+bahay, W
+na, W
+pinagbabaan, W
+niya, W
+—, W
+maraming, W
+lobo, W
+at, W
+bata, W
+., W
+
+Mukhang, W
+may, W
+party, W
+!, W
+
+Kakaiba, W
+talaga, W
+ang, W
+araw, W
+na, W
+ito, W
+!, W
+
+Parang, W
+nag-party, MWE
+din, W
+kami, W
+sa loob, MWE
+ng, W
+jeep, W
+ni, W
+Tatay, W
+dahil sa, MWE
+payasong, W
+pasahero, W
+namin, W
+!, W
+
+Alamin, W
+natin, W
+ang, W
+mga anyong-tubig, MWE
+sa, W
+Pilipinas, NE-LOC
+!, W
+
+Ang, W
+Pilipinas, NE-LOC
+ay, W
+binubuo, W
+ng, W
+maraming, W
+isla, W
+., W
+
+Ang, W
+kalupaan, W
+nito, W
+ay, W
+pinaliligiran, W
+ng, W
+maraming, W
+anyong-tubig, MWE
+., W
+
+Isa, W
+tayo, W
+sa, W
+mga bansang, MWE
+may, W
+pinakamahabang, W
+baybayin, W
+., W
+
+May, W
+malalaking, W
+anyong-tubig, MWE
+,, W
+mayroon, W
+ding, W
+maliliit, W
+., W
+
+Maraming, W
+kabutihang, W
+naidudulot, W
+ang, W
+mga anyong-tubig, MWE
+na, W
+ito, W
+., W
+
+Alamin, W
+natin, W
+ang, W
+iba't ibang anyong-tubig, MWE
+sa, W
+Pilipinas, NE-LOC
+!, W
+
+Nakakita, W
+ka, W
+na, W
+ba, W
+ng, W
+lawa, W
+na, W
+may, W
+bulkan, W
+sa, W
+gitna, W
+?, W
+
+Ganito, W
+ang, W
+Lawa ng Taal, NE-LOC
+sa, W
+probinsya, W
+ng, W
+Batangas, NE-LOC
+., W
+
+Sa gitna ng, MWE
+lawa, W
+nito, W
+ay, W
+ang, W
+Bulkang Taal, NE-LOC
+., W
+
+Nabuo, W
+ang, W
+lawang, W
+ito, W
+dahil sa, MWE
+isang, W
+pagsabog, W
+ng, W
+bulkan, W
+,, W
+ilang daang taon, MWE
+na, W
+ang nakaraan, MWE
+., W
+
+Alam, W
+ba, W
+ninyong, W
+may isa, MWE
+pang, W
+lawa, W
+sa loob, MWE
+ng, W
+Bulkang Taal, NE-LOC
+?, W
+
+Pambihira, W
+talaga, W
+!, W
+
+Maraming, W
+turistang, W
+pumupunta, W
+sa, W
+Lawa ng Taal, NE-LOC
+at, W
+sa, W
+Bulkang Taal, NE-LOC
+., W
+
+Sumasakay, W
+sila, W
+ng, W
+bangka, W
+patungo, W
+sa, W
+bulkan, W
+,, W
+na, W
+kanilang, W
+inaakyat, W
+., W
+
+Marami, W
+talaga, W
+ang, W
+nakikinabang, W
+sa, W
+lawang, W
+ito, W
+., W
+
+Bukod, W
+sa, W
+mga nakikinabang, MWE
+sa, W
+turismo, W
+,, W
+maraming, W
+nag-aalaga, MWE
+ng, W
+bangus, W
+at, W
+tilapia, W
+sa, W
+Lawa ng Taal, NE-LOC
+., W
+
+Alam, W
+mo, W
+ba, W
+kung ano, MWE
+ang, W
+pinakamahabang, W
+ilog, W
+sa, W
+Pilipinas, NE-LOC
+?, W
+
+Ang, W
+Cagayan River, NE-LOC
+ang, W
+pinakamahaba, W
+at, W
+pinakamalaking, W
+ilog, W
+sa, W
+Pilipinas, NE-LOC
+., W
+
+Apat, W
+na, W
+probinsya, W
+ang, W
+binabaybay, W
+nito, W
+., W
+
+Ito, W
+ang, W
+Nueva Vizcaya, NE-LOC
+,, W
+Quirino, NE-LOC
+,, W
+Isabela, NE-LOC
+,, W
+at, W
+Cagayan, NE-LOC
+., W
+
+Ang, W
+mga probinsyang, MWE
+ito, W
+ay, W
+matatagpuan, W
+sa, W
+Hilagang Luzon, NE-LOC
+., W
+
+Dinaraanan, W
+rin, W
+ng, W
+Cagayan River, NE-LOC
+ang, W
+ilang, W
+natitirang, W
+kakahuyan, W
+sa, W
+Pilipinas, NE-LOC
+., W
+
+Binubuhay, W
+ng, W
+tubig, W
+nito, W
+ang, W
+iba't ibang uri, MWE
+ng, W
+halaman, W
+at, W
+hayop, W
+., W
+
+Kabilang, W
+sa, W
+umaasa, W
+sa, W
+ilog, W
+ang, W
+ilang, W
+endangered species, MWE
+tulad, W
+ng, W
+Philippine, W
+Eagle, W
+., W
+
+Nakakita, W
+ka, W
+na, W
+ba, W
+ng, W
+talon, W
+?, W
+
+Dapat, W
+mong, W
+makita, W
+ang, W
+Maria Cristina Falls, NE-LOC
+sa, W
+lungsod ng Iligan, NE-LOC
+sa, W
+Lanao del Norte, NE-LOC
+., W
+
+Ang, W
+Maria Cristina Falls, NE-LOC
+ay, W
+kilala, W
+rin, W
+bilang, W
+kambal, W
+na, W
+talon, W
+., W
+
+Dahil, W
+ito, W
+sa, W
+isang, W
+malaking bato, MWE
+sa, W
+taas, W
+ng, W
+talon, W
+,, W
+na, W
+humahati, W
+sa, W
+daloy, W
+ng, W
+tubig, W
+., W
+
+Napakahalaga, W
+ng, W
+Maria Cristina Falls, NE-LOC
+sa, W
+Mindanao, NE-LOC
+., W
+
+Ito, W
+ang, W
+pangunahing, W
+pinagmumulan, W
+ng, W
+koryente, W
+sa, W
+rehiyon, W
+., W
+
+Ang, W
+uri, W
+ng, W
+koryenteng, W
+nililikha, W
+ng, W
+talon, W
+ay, W
+tinatawag, W
+na, W
+hydroelectric power, MWE
+., W
+
+Alam, W
+mo, W
+ba, W
+kung ano, MWE
+ang, W
+bukal, W
+?, W
+
+Ito, W
+ang, W
+pinakamaliit, W
+na, W
+anyong-tubig, MWE
+., W
+
+Mula sa, MWE
+ilalim, W
+ng, W
+lupa, W
+ang, W
+tubig, W
+ng, W
+bukal, W
+., W
+
+May, W
+mga bukal, MWE
+na, W
+mainit, W
+ang, W
+tubig, W
+!, W
+
+Karaniwan, W
+ito, W
+sa, W
+mga bukal, MWE
+na, W
+malapit, W
+sa, W
+maiinit, W
+na, W
+bato, W
+sa ilalim, MWE
+ng, W
+lupa, W
+., W
+
+Isa, W
+sa, W
+kilalang, W
+bukal, W
+ay, W
+ang, W
+Tiwi Hot Springs, NE-LOC
+sa, W
+Bikol, NE-LOC
+., W
+
+Matatagpuan, W
+ito, W
+malapit, W
+sa, W
+Bulkang Mayon, NE-LOC
+., W
+
+Maraming, W
+pumupunta, W
+sa, W
+Tiwi Hot Springs, NE-LOC
+dahil, W
+nakagagaling, W
+daw, W
+ng, W
+sakit, W
+ng, W
+kalamnan, W
+ang, W
+maglublob, W
+sa, W
+mainit, W
+nitong, W
+tubig, W
+., W
+
+Ang, W
+paglabas, W
+ng, W
+mainit, W
+na, W
+tubig, W
+na, W
+ito, W
+mula sa, MWE
+lupa, W
+ay, W
+pinagmumulan, W
+din, W
+ng, W
+koryente, W
+., W
+
+Geothermal power, MWE
+ang, W
+tawag, W
+sa, W
+uri, W
+ng, W
+koryenteng, W
+ito, W
+., W
+
+Ang, W
+koryenteng, W
+ito, W
+ay, W
+hinango, W
+sa, W
+init, W
+mula sa, MWE
+ilalim, W
+ng, W
+lupa, W
+., W
+
+Pambihira, W
+talaga, W
+ang, W
+mga anyong-tubig, MWE
+sa, W
+Pilipinas, NE-LOC
+!, W
+
+Kapaki-pakinabang, MWE
+pa, W
+ang, W
+bawat isa, MWE
+., W
+
+Anong, W
+mga anyong tubig, MWE
+ang, W
+matatagpuan, W
+sa, W
+inyong, W
+lugar, W
+?, W
+
